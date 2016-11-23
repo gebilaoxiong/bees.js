@@ -1,0 +1,14 @@
+/.idea
+
+/node_modules
+
+/components
+
+npm-debug.log
+
+.DS_Store
+*.db
+*.bak
+*.tmp
+*.cmd
+~*
